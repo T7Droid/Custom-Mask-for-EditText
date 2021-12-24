@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Máscara Personalizada</string>
+    <string name="type_something">Digite alguma coisa...</string>
+    <string name="phone_number">Telefone</string>
+    <string name="date">Data</string>
+    <string name="plate">Placa do carro</string>
+    <string name="text_to_be_updated">Texto a ser atualizado</string>
+</resources>

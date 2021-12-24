@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomMaskTextWatcher</string>
+    <string name="cnpj" translatable="false">CNPJ</string>
+    <string name="phone_number">Phone number</string>
+    <string name="cpf" translatable="false">CPF</string>
+    <string name="date">Date</string>
+    <string name="plate">Plate</string>
+    <string name="type_something">Type something</string>
+    <string name="text_to_be_updated">Text to be updated</string>
+</resources>
