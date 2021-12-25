@@ -55,8 +55,10 @@ Outros exemplos de máscaras que podem ser usadas:
 
 Para remover a máscara use o método unMask():
 <br/>
-`CustomMask.unMask(binding.myEditext.text.toString())`
 <br/>
+`CustomMask.unMask(binding.textInputLayoutPhone.text.toString())`
+<br/>
+</br>
 Fique à vontade para criar suas próprias máscaras!
 <br/>
 <br/>
