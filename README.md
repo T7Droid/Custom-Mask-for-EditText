@@ -26,7 +26,7 @@ Passo 1: adicione o repósitorio Jitpack no arquivo build.gradle, ao final de re
 
 <br/>
 
-  _E pronto, agora você já pode começar a usar!
+  _E pronto, agora você já pode começar a usar!_
 
 <br/>
 
