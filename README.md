@@ -6,12 +6,13 @@ Uma máscara customizável que pode ser adicionada aos seus EditTexts, e adaptar
 
 Passo 1: adicione o repósitorio Jitpack no arquivo build.gradle, ao final de repositories:
 
-`allprojects {
-		repositories {
-			...
-			*maven { url 'https://jitpack.io' }*
-		}
-	}`
+`allprojects {`
+<br>
+		<br>`repositories {`
+			`...`
+		<br>	`maven { url 'https://jitpack.io' }`
+		<br>     `}`
+	<br>`}`
 
 
 
@@ -19,9 +20,9 @@ Passo 1: adicione o repósitorio Jitpack no arquivo build.gradle, ao final de re
 
   passo 2: adicione a dependência:
 
-  `dependencies {
-	        *implementation 'com.github.T7Droid:Custom-Mask-for-EditText:1.0.0'*
-	}`
+ <br> `dependencies {`
+	<br>        `implementation 'com.github.T7Droid:Custom-Mask-for-EditText:1.0.0'`
+	<br>`}`
 
 <br/>
 
@@ -35,35 +36,30 @@ Adicione um TextChangedListener ao seu EditText, passando como parâmetro um obj
 
 `binding.textInputLayoutPhone.addTextChangedListener(`
 
-`CustomMask.mask("(##) #####-####",` 
+`CustomMask.mask("(##) #####-####", //Formato da máscara que deseja` 
 
-` binding.textInputLayoutPhone,` 
+` binding.textInputLayoutPhone, //Seu editText` 
 
-` binding.myTextView)` 
+` binding.myTextView) //TextView a ser atualizado (Opcional)` 
 
 `)`
 
-
-
+<br>
 Outros exemplos de máscaras que podem ser usadas: 
-
-CPF: "###.###.###-##"
-
-CNPJ: "##.###.###/####-##"
-
-Data: "##-##-####"
-
-Placa de carro: "###-####"
-
-
+<br/>
+**CPF: "###.###.###-##"**
+**CNPJ: "##.###.###/####-##"**
+**Data: "##-##-####"**
+**Placa de carro: "###-####"**
+<br/>
 
 Fique à vontade para criar suas próprias máscaras!
+<br/>
+<br/>
 
+_Encontrou algum bug? Tem alguma sugestão de melhoria? Fique à vontade para me contatar:_
 
-
-Encontrou algum bug? Tem alguma sugestão de melhoria? Fique à vontade para me contatar:
-
-Email: [Thyago Neves Silvestre](www.t7droid@gmail.com "T7Droid")
+Email: [Thyago Neves Silvestre](www.t7droid@gmail.com "T7Droid") _**Desenvolvedor Android**_
 
 
 
