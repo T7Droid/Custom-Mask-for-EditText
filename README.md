@@ -1,4 +1,4 @@
-# Custom-Mask-for-EditText 🎭
+# Custom-Mask-for-EditText 🎭 ( Máscara personalizável para editTexts!)
 
 Uma máscara customizável que pode ser adicionada aos seus EditTexts, e adaptar de acordo com as suas necessidades. Veja como adicionar ao seu projeto:
 
@@ -26,7 +26,7 @@ Passo 1: adicione o repósitorio Jitpack no arquivo build.gradle, ao final de re
 
 <br/>
 
-  E pronto, agora você já pode começar a usar!
+  _E pronto, agora você já pode começar a usar!
 
 <br/>
 
