@@ -68,5 +68,5 @@ _Encontrou algum bug? Tem alguma sugestão de melhoria? Fique à vontade para me
 <br/>
 Email: [Thyago Neves Silvestre](www.t7droid@gmail.com "T7Droid") _**Desenvolvedor Android**_
 
-
+[![](https://jitpack.io/v/T7Droid/Custom-Mask-for-EditText.svg)](https://jitpack.io/#T7Droid/Custom-Mask-for-EditText)
 
