@@ -46,10 +46,10 @@ Adicione um TextChangedListener ao seu EditText, passando como parâmetro um obj
 
 <br>
 Outros exemplos de máscaras que podem ser usadas: 
-<br/>**CPF: "###.###.###-##"**
-<br/>**CNPJ: "##.###.###/####-##"**
-<br/>**Data: "##-##-####"**
-<br/>**Placa de carro: "###-####"**
+<br/>CPF: "###.###.###-##"
+<br/>CNPJ: "##.###.###/####-##"
+<br/>Data: "##-##-####"
+<br/>Placa de carro: "###-####"
 <br/><br/>
 
 Fique à vontade para criar suas próprias máscaras!
