@@ -53,7 +53,7 @@ Outros exemplos de máscaras que podem ser usadas:
 <br/>Placa de carro: "###-####"
 <br/><br/>
 
-Para remover a máscara use o método unMask():
+Para remover a máscara use o método unMask(textWithMask: String):
 <br/>
 <br/>
 `CustomMask.unMask(binding.textInputLayoutPhone.text.toString())`
@@ -64,7 +64,8 @@ Fique à vontade para criar suas próprias máscaras!
 <br/>
 
 _Encontrou algum bug? Tem alguma sugestão de melhoria? Fique à vontade para me contatar:_
-
+<br/>
+<br/>
 Email: [Thyago Neves Silvestre](www.t7droid@gmail.com "T7Droid") _**Desenvolvedor Android**_
 
 
