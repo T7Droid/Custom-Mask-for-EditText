@@ -1,6 +1,6 @@
 # Custom-Mask-for-EditText 🎭 ( Máscara personalizável para EditTexts!)
 
-Uma máscara customizável que pode ser adicionada aos seus EditTexts, e adaptar de acordo com as suas necessidades. Veja como adicionar ao seu projeto:
+Uma máscara customizável que pode ser adicionada aos seus EditTexts, e adaptada de acordo com as suas necessidades. Veja como adicionar ao seu projeto:
 
 <br/>
 
