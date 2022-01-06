@@ -15,7 +15,6 @@ Passo 1: adicione o repósitorio Jitpack no arquivo build.gradle, ao final de re
 	<br>`}`
 
 
-
 <br/>
 
   passo 2: adicione a dependência:
