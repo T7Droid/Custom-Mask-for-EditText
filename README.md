@@ -37,7 +37,7 @@ Adicione um TextChangedListener ao seu EditText, passando como parâmetro um obj
 `binding.textInputLayoutPhone.addTextChangedListener(`
 
 `CustomMask.mask(
-<br/>"(##) #####-####", //Formato da máscara que deseja` 
+<br>"(##) #####-####", //Formato da máscara que deseja` 
 
 ` binding.textInputLayoutPhone, //Seu editText` 
 
